@@ -1,0 +1,78 @@
+C:\Users\DELL\source\repos\ApplicationDev\ApplicationDev\bin\Debug\ApplicationDev.exe.config
+C:\Users\DELL\source\repos\ApplicationDev\ApplicationDev\bin\Debug\ApplicationDev.exe
+C:\Users\DELL\source\repos\ApplicationDev\ApplicationDev\bin\Debug\ApplicationDev.pdb
+C:\Users\DELL\source\repos\ApplicationDev\ApplicationDev\obj\Debug\ApplicationDev.Properties.Resources.resources
+C:\Users\DELL\source\repos\ApplicationDev\ApplicationDev\obj\Debug\ApplicationDev.csproj.GenerateResource.cache
+C:\Users\DELL\source\repos\ApplicationDev\ApplicationDev\obj\Debug\ApplicationDev.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\ApplicationDev\ApplicationDev\obj\Debug\ApplicationDev.exe
+C:\Users\DELL\source\repos\ApplicationDev\ApplicationDev\obj\Debug\ApplicationDev.pdb
+C:\Users\DELL\source\repos\ApplicationDev\ApplicationDev\bin\Debug\MySql.Data.dll
+C:\Users\DELL\source\repos\ApplicationDev\ApplicationDev\bin\Debug\Google.Protobuf.dll
+C:\Users\DELL\source\repos\ApplicationDev\ApplicationDev\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\DELL\source\repos\ApplicationDev\ApplicationDev\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\DELL\source\repos\ApplicationDev\ApplicationDev\bin\Debug\Renci.SshNet.dll
+C:\Users\DELL\source\repos\ApplicationDev\ApplicationDev\bin\Debug\MySql.Data.xml
+C:\Users\DELL\source\repos\ApplicationDev\ApplicationDev\obj\Debug\ApplicationDev.Form1.resources
+C:\Users\DELL\source\repos\ApplicationDev\ApplicationDev\obj\Debug\ApplicationDev.csproj.CopyComplete
+C:\Users\DELL\source\repos\ApplicationDev\ApplicationDev\obj\Debug\ApplicationDev.csprojAssemblyReference.cache
+C:\Users\DELL\source\repos\ApplicationDev\ApplicationDev\obj\Debug\ApplicationDev.Staff.resources
+C:\Users\DELL\source\repos\ApplicationDev\ApplicationDev\obj\Debug\ApplicationDev.ManageCourse.resources
+C:\Users\DELL\source\repos\ApplicationDev\ApplicationDev\obj\Debug\ApplicationDev.ManageCourseCategory.resources
+C:\Users\DELL\source\repos\ApplicationDev\ApplicationDev\obj\Debug\ApplicationDev.ManageTopic.resources
+C:\Users\DELL\source\repos\ApplicationDev\ApplicationDev\obj\Debug\ApplicationDev.ManageTrainee.resources
+C:\Users\DELL\source\repos\ApplicationDev\ApplicationDev\obj\Debug\ApplicationDev.Admin.resources
+C:\Users\DELL\source\repos\ApplicationDev\ApplicationDev\obj\Debug\ApplicationDev.manageStaff.resources
+C:\Users\DELL\source\repos\ApplicationDev\ApplicationDev\obj\Debug\ApplicationDev.Trainer.resources
+C:\Users\DELL\source\repos\ApplicationDev\ApplicationDev\obj\Debug\ApplicationDev.TrainerInfo.resources
+C:\Users\DELL\source\repos\ApplicationDev\ApplicationDev\obj\Debug\ApplicationDev.ViewCourse.resources
+C:\Users\nhatl\Downloads\ApplicationDev-20200509T023454Z-001\ApplicationDev\ApplicationDev\obj\Debug\ApplicationDev.Admin.resources
+C:\Users\nhatl\Downloads\ApplicationDev-20200509T023454Z-001\ApplicationDev\ApplicationDev\obj\Debug\ApplicationDev.Form1.resources
+C:\Users\nhatl\Downloads\ApplicationDev-20200509T023454Z-001\ApplicationDev\ApplicationDev\obj\Debug\ApplicationDev.ManageCourse.resources
+C:\Users\nhatl\Downloads\ApplicationDev-20200509T023454Z-001\ApplicationDev\ApplicationDev\obj\Debug\ApplicationDev.ManageCourseCategory.resources
+C:\Users\nhatl\Downloads\ApplicationDev-20200509T023454Z-001\ApplicationDev\ApplicationDev\obj\Debug\ApplicationDev.manageStaff.resources
+C:\Users\nhatl\Downloads\ApplicationDev-20200509T023454Z-001\ApplicationDev\ApplicationDev\obj\Debug\ApplicationDev.ManageTopic.resources
+C:\Users\nhatl\Downloads\ApplicationDev-20200509T023454Z-001\ApplicationDev\ApplicationDev\obj\Debug\ApplicationDev.ManageTrainee.resources
+C:\Users\nhatl\Downloads\ApplicationDev-20200509T023454Z-001\ApplicationDev\ApplicationDev\obj\Debug\ApplicationDev.Properties.Resources.resources
+C:\Users\nhatl\Downloads\ApplicationDev-20200509T023454Z-001\ApplicationDev\ApplicationDev\obj\Debug\ApplicationDev.Staff.resources
+C:\Users\nhatl\Downloads\ApplicationDev-20200509T023454Z-001\ApplicationDev\ApplicationDev\obj\Debug\ApplicationDev.Trainer.resources
+C:\Users\nhatl\Downloads\ApplicationDev-20200509T023454Z-001\ApplicationDev\ApplicationDev\obj\Debug\ApplicationDev.TrainerInfo.resources
+C:\Users\nhatl\Downloads\ApplicationDev-20200509T023454Z-001\ApplicationDev\ApplicationDev\obj\Debug\ApplicationDev.ViewCourse.resources
+C:\Users\nhatl\Downloads\ApplicationDev-20200509T023454Z-001\ApplicationDev\ApplicationDev\obj\Debug\ApplicationDev.csproj.GenerateResource.cache
+C:\Users\nhatl\Downloads\ApplicationDev-20200509T023454Z-001\ApplicationDev\ApplicationDev\bin\Debug\ApplicationDev.exe.config
+C:\Users\nhatl\Downloads\ApplicationDev-20200509T023454Z-001\ApplicationDev\ApplicationDev\bin\Debug\ApplicationDev.exe
+C:\Users\nhatl\Downloads\ApplicationDev-20200509T023454Z-001\ApplicationDev\ApplicationDev\bin\Debug\ApplicationDev.pdb
+C:\Users\nhatl\Downloads\ApplicationDev-20200509T023454Z-001\ApplicationDev\ApplicationDev\bin\Debug\MySql.Data.dll
+C:\Users\nhatl\Downloads\ApplicationDev-20200509T023454Z-001\ApplicationDev\ApplicationDev\bin\Debug\Google.Protobuf.dll
+C:\Users\nhatl\Downloads\ApplicationDev-20200509T023454Z-001\ApplicationDev\ApplicationDev\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\nhatl\Downloads\ApplicationDev-20200509T023454Z-001\ApplicationDev\ApplicationDev\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\nhatl\Downloads\ApplicationDev-20200509T023454Z-001\ApplicationDev\ApplicationDev\bin\Debug\Renci.SshNet.dll
+C:\Users\nhatl\Downloads\ApplicationDev-20200509T023454Z-001\ApplicationDev\ApplicationDev\bin\Debug\MySql.Data.xml
+C:\Users\nhatl\Downloads\ApplicationDev-20200509T023454Z-001\ApplicationDev\ApplicationDev\obj\Debug\ApplicationDev.csproj.CopyComplete
+C:\Users\nhatl\Downloads\ApplicationDev-20200509T023454Z-001\ApplicationDev\ApplicationDev\obj\Debug\ApplicationDev.exe
+C:\Users\nhatl\Downloads\ApplicationDev-20200509T023454Z-001\ApplicationDev\ApplicationDev\obj\Debug\ApplicationDev.pdb
+E:\Desktop\tai lieu tham khao\ApplicationDev-20200615T070838Z-001\ApplicationDev\bin\Debug\ApplicationDev.exe.config
+E:\Desktop\tai lieu tham khao\ApplicationDev-20200615T070838Z-001\ApplicationDev\bin\Debug\ApplicationDev.exe
+E:\Desktop\tai lieu tham khao\ApplicationDev-20200615T070838Z-001\ApplicationDev\bin\Debug\ApplicationDev.pdb
+E:\Desktop\tai lieu tham khao\ApplicationDev-20200615T070838Z-001\ApplicationDev\bin\Debug\Google.Protobuf.dll
+E:\Desktop\tai lieu tham khao\ApplicationDev-20200615T070838Z-001\ApplicationDev\bin\Debug\BouncyCastle.Crypto.dll
+E:\Desktop\tai lieu tham khao\ApplicationDev-20200615T070838Z-001\ApplicationDev\bin\Debug\Ubiety.Dns.Core.dll
+E:\Desktop\tai lieu tham khao\ApplicationDev-20200615T070838Z-001\ApplicationDev\bin\Debug\Renci.SshNet.dll
+E:\Desktop\tai lieu tham khao\ApplicationDev-20200615T070838Z-001\ApplicationDev\bin\Debug\MySql.Data.xml
+E:\Desktop\tai lieu tham khao\ApplicationDev-20200615T070838Z-001\ApplicationDev\obj\Debug\ApplicationDev.csprojAssemblyReference.cache
+E:\Desktop\tai lieu tham khao\ApplicationDev-20200615T070838Z-001\ApplicationDev\obj\Debug\ApplicationDev.Admin.resources
+E:\Desktop\tai lieu tham khao\ApplicationDev-20200615T070838Z-001\ApplicationDev\obj\Debug\ApplicationDev.Form1.resources
+E:\Desktop\tai lieu tham khao\ApplicationDev-20200615T070838Z-001\ApplicationDev\obj\Debug\ApplicationDev.ManageCourse.resources
+E:\Desktop\tai lieu tham khao\ApplicationDev-20200615T070838Z-001\ApplicationDev\obj\Debug\ApplicationDev.ManageCourseCategory.resources
+E:\Desktop\tai lieu tham khao\ApplicationDev-20200615T070838Z-001\ApplicationDev\obj\Debug\ApplicationDev.manageStaff.resources
+E:\Desktop\tai lieu tham khao\ApplicationDev-20200615T070838Z-001\ApplicationDev\obj\Debug\ApplicationDev.ManageTopic.resources
+E:\Desktop\tai lieu tham khao\ApplicationDev-20200615T070838Z-001\ApplicationDev\obj\Debug\ApplicationDev.ManageTrainee.resources
+E:\Desktop\tai lieu tham khao\ApplicationDev-20200615T070838Z-001\ApplicationDev\obj\Debug\ApplicationDev.Properties.Resources.resources
+E:\Desktop\tai lieu tham khao\ApplicationDev-20200615T070838Z-001\ApplicationDev\obj\Debug\ApplicationDev.Staff.resources
+E:\Desktop\tai lieu tham khao\ApplicationDev-20200615T070838Z-001\ApplicationDev\obj\Debug\ApplicationDev.Trainer.resources
+E:\Desktop\tai lieu tham khao\ApplicationDev-20200615T070838Z-001\ApplicationDev\obj\Debug\ApplicationDev.TrainerInfo.resources
+E:\Desktop\tai lieu tham khao\ApplicationDev-20200615T070838Z-001\ApplicationDev\obj\Debug\ApplicationDev.ViewCourse.resources
+E:\Desktop\tai lieu tham khao\ApplicationDev-20200615T070838Z-001\ApplicationDev\obj\Debug\ApplicationDev.csproj.GenerateResource.cache
+E:\Desktop\tai lieu tham khao\ApplicationDev-20200615T070838Z-001\ApplicationDev\obj\Debug\ApplicationDev.csproj.CoreCompileInputs.cache
+E:\Desktop\tai lieu tham khao\ApplicationDev-20200615T070838Z-001\ApplicationDev\obj\Debug\ApplicationDev.csproj.CopyComplete
+E:\Desktop\tai lieu tham khao\ApplicationDev-20200615T070838Z-001\ApplicationDev\obj\Debug\ApplicationDev.exe
+E:\Desktop\tai lieu tham khao\ApplicationDev-20200615T070838Z-001\ApplicationDev\obj\Debug\ApplicationDev.pdb
